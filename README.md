@@ -12,7 +12,7 @@ For instance, it could be:
 - a query link https://www.olx.ua/list/q-bass-guitar/
 - any  [olx.ua](https://www.olx.ua/ "olx.ua") link that returns list of advertisments
 
-Run ```main.py```, output should be like this:
+Run ```main.py```, output should be like this (phone numbers are not hidden):
 
 
     Start parsing https://www.olx.ua/elektronika/
